@@ -16,5 +16,5 @@ This site is collaboratively managed using [GitHub](https://github.com), [Jekyll
 
 - Be sure to give your post a title up at the top of the Prose interface. Over to the right, click the Meta Data button to add your author name, select the category so the post will show up in the right place, and check "Publish" if it's ready to go. Finally, click the Save button and hit "Commit." Your new post will immediately show up on the site.
 
-![prose-images.png](/assets/prose-images.png)
+![prose-images.png]({{ site.github.url }}/assets/prose-images.png)
 \*A note on adding images: Prose's text editor has a button to upload an image and insert it into your post, but there's a minor bug that requires you to change one word in the dialog box. In the "Image URL" field, change `\_posts` to `assets` (see above screenshots). This will store your image in the correct place.

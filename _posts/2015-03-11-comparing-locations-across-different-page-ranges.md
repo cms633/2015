@@ -14,6 +14,6 @@ I decided that this tool on its own is limiting, but becomes much more powerful 
 
 Here is a screenshot of the interface:
 
-![Screen Shot 2015-03-11 at 4.27.49 PM.png](/assets/Screen Shot 2015-03-11 at 4.27.49 PM.png)
+![Screen Shot 2015-03-11 at 4.27.49 PM.png]({{ site.github.url }}/assets/Screen Shot 2015-03-11 at 4.27.49 PM.png)
 
 The red markers display the first layer, which in this case represents all the locations mentioned in the first 50 pages of Moby Dick. The blue markers display the second layer, which represent the _last_ 50 pages in this example. It's interesting to see the difference between the locations mentioned in the beginning, versus those mentioned at the end of this novel. For example, this visualization makes it clear that there are many more references to Western Europe in the beginning of the book than there are at the end.

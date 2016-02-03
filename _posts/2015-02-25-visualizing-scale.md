@@ -12,13 +12,13 @@ For this task, I used IBM's **manyeyes** visualization alongside DensityDesign's
 
 I first looked at the Circle Packing visualization that RAW provided, sorting by genre and using total sold for the size of each circle. The result is the following image:
 
-![ben-reynolds-data-screenshot-2.png](/assets/ben-reynolds-data-screenshot-2.png)
+![ben-reynolds-data-screenshot-2.png]({{ site.github.url }}/assets/ben-reynolds-data-screenshot-2.png)
 
 It's apparent that the _comedie_ circle is the largest, followed by the _tragdie_, and then the _drame_.
 
 As a comparison, I looked at the same data in manyeyes' Bubble Chart. The result is the following image:
 
-![ben-reynolds-data-screenshot.png](/assets/ben-reynolds-data-screenshot.png)
+![ben-reynolds-data-screenshot.png]({{ site.github.url }}/assets/ben-reynolds-data-screenshot.png)
 
 While the overall image is simlar, there are a few key distinctions that make a difference in how we interpret the data. The most prominent is that there appears to be a greater contrast in the size of the large and small bubbles. The _comdie_ bubble is immense compared to the others, making it seem as if that genre dominated the theater by a wide margin. Contributing to this illusion is the inclusion of a number of tiny bubbles, whereas the RAW vizualization appears to have left out some of the smaller circles or perhaps grouped them together.
 

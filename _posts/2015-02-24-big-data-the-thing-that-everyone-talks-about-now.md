@@ -6,7 +6,7 @@ category: commentary
 author: Sherry Ren
 ---
 
-Provocation 2: One of the traps that people often fall into is linking correlation with causation. Thinking about this reminds me of a few examples of riciculous graphs that shows correlation is not causation including this one:![correlation_vs_causation.png](/assets/correlation_vs_causation.png)
+Provocation 2: One of the traps that people often fall into is linking correlation with causation. Thinking about this reminds me of a few examples of riciculous graphs that shows correlation is not causation including this one:![correlation_vs_causation.png]({{ site.github.url }}/assets/correlation_vs_causation.png)
 
 
 To avoid mistakes like this, it is extremely important for researchers to understand the context of the data and choose the appropriate interpretation approach. Of course it is important to have "good data", but the analysis is in fact more important in this case. Using the appropriate way to approach the data analysis also governs how the data should be cleaned. Therefore, researchers should not believe that simply acquiring more data will yield better analysis.

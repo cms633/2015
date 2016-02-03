@@ -7,7 +7,7 @@ author: "Eva Ster-Rodriguez"
 ---
 
 <style> img{width:200px; float:left; margin-right:10px;}</style>
-![eva.jpg.png](/assets/eva.jpg.png)
+![eva.jpg.png]({{ site.github.url }}/assets/eva.jpg.png)
 
 
 

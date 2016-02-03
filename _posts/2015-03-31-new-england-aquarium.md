@@ -22,33 +22,33 @@ There are very few misuses of technologies at the aquarium since there isn't any
 ##Frustrations:
 One of the biggest issues I experienced during my visits is the visibility inside the aquarium. It is understandable that the lighting needs to be dim for the health of the animals. However, the dim lighting makes it very hard to locate friends or family members if the party is separated. Technology could definitely help here. If each visitor is given a bracelet with a tracker inside and is able to activate tracking of each desired tracker on their smart phones, it will be much easier for parents to find their children or for friends to find each other during the visit. 
 
-![IMG_4977.JPG](/assests/IMG_4977.JPG)
+![IMG_4977.JPG]({{ site.github.url }}/assests/IMG_4977.JPG)
 Main hallway of the aquarium.
 
 ##Interior/Exterior:
 The exterior of the aquarium is very modern and cool looking which can attract people to visit. 
-![IMG_4934.JPG](/assets/IMG_4934.JPG)
+![IMG_4934.JPG]({{ site.github.url }}/assets/IMG_4934.JPG)
 It is also located near the harbor and is generally a very touristy area. 
-![IMG_4936.JPG](/assets/IMG_4936.JPG)
+![IMG_4936.JPG]({{ site.github.url }}/assets/IMG_4936.JPG)
 
 Visitors can see the seals through some glasses before they even enter the aquarium or when they are waiting outside for the rest of the party. This makes the aquarium more welcoming and intriguing before the visit. 
 
 Although the aquarium doesn't have a lot of technology-based features, it does offer fun interactions for the visitors by having a "petting zone" and animal performances. These features allow the visitors to be more engaged during their visits. 
-![IMG_1850.JPG](/assets/IMG_1850.JPG)
+![IMG_1850.JPG]({{ site.github.url }}/assets/IMG_1850.JPG)
 
 The stingray shallow tank is one of the most popular spot at the aquarium which gives the visitors an opportunity to feel the stingrays as they swim by. It is fun and unique for both the adults and the children.
 
-![IMG_1806.JPG](/assets/IMG_1806.JPG)
+![IMG_1806.JPG]({{ site.github.url }}/assets/IMG_1806.JPG)
 
 The rotating hallway around the big tank not only conserved space but also allowed the visitors to have a fun and unique experience. 
-![IMG_4939.JPG](/assets/IMG_4939.JPG)
+![IMG_4939.JPG]({{ site.github.url }}/assets/IMG_4939.JPG)
 
 
 At the top of the big tank, visitors can see the sea turtles and other animals close up without the glass interference. 
-![IMG_1872.JPG](/assets/IMG_1872.JPG)
+![IMG_1872.JPG]({{ site.github.url }}/assets/IMG_1872.JPG)
 
 Overall, the aquarium welcomes its visitors by having a very fun-infused environment that allows visitors to have a deep engagemnt with the environment. 
-![IMG_4997.JPG](/assets/IMG_4997.JPG)
+![IMG_4997.JPG]({{ site.github.url }}/assets/IMG_4997.JPG)
 
 
 

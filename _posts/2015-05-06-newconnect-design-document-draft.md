@@ -62,7 +62,7 @@ The second component of our project had to do with the user interface. We really
 
 a. The user will see a world map, populated with news
 
-![Screen Shot 2015-05-05 at 9.46.31 PM.png](/assets/Screen Shot 2015-05-05 at 9.46.31 PM.png)
+![Screen Shot 2015-05-05 at 9.46.31 PM.png]({{ site.github.url }}/assets/Screen Shot 2015-05-05 at 9.46.31 PM.png)
 
 b. The user can change what he or she sees on the map by doing any combination of the following:
 	- Selecting a country to zoom in on by double clicking on a region
@@ -72,23 +72,23 @@ b. The user can change what he or she sees on the map by doing any combination o
 
 c. The user can get a list of the articles pertaining to a specific country by hovering over the pin in the country.
 
-![Screen Shot 2015-05-06 at 12.45.40 PM.png](/assets/Screen Shot 2015-05-06 at 12.45.40 PM.png)
+![Screen Shot 2015-05-06 at 12.45.40 PM.png]({{ site.github.url }}/assets/Screen Shot 2015-05-06 at 12.45.40 PM.png)
 
 
 d. The user can hover over an article in the the list of articles and see a preview of the article appear on the screen.
 
 e. A user can click on the link to the article they see (before or after seeing the preview) and the article will open in a new tab. Or if a user decides that the article is not one they want to read, they can close the preview, and zoom back out to the world view.
 
-![Screen Shot 2015-05-06 at 12.47.05 PM.png](/assets/Screen Shot 2015-05-06 at 12.47.05 PM.png)
+![Screen Shot 2015-05-06 at 12.47.05 PM.png]({{ site.github.url }}/assets/Screen Shot 2015-05-06 at 12.47.05 PM.png)
 
 
 ## **VIII. Future Directions**
 
 With more time and access to more robust APIs, we would like to incorporate more news sources from all around the world, have more comprehensive category/search terms, and a way of saving, sharing, and rating news articles users discover on our app. We’d like to incorporate a time line feature using a slider bar that a user can interact with to indicate a range of dates they’d like to see news from. Additionally, we wanted to have a “Zoom back to world” button, which would be the Globe icon next to the site title — a standard way of returning to the home screen of a site. 
 
-![NewsConnect: Looking Ahead.png](/assets/NewsConnect: Looking Ahead.png)
+![NewsConnect: Looking Ahead.png]({{ site.github.url }}/assets/NewsConnect: Looking Ahead.png)
 
-![Screen Shot 2015-05-06 at 2.41.13 PM.png](/assets/Screen Shot 2015-05-06 at 2.41.13 PM.png)
+![Screen Shot 2015-05-06 at 2.41.13 PM.png]({{ site.github.url }}/assets/Screen Shot 2015-05-06 at 2.41.13 PM.png)
 
 ## **VIII. Works Cited**
 

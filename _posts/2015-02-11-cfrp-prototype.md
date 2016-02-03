@@ -22,5 +22,5 @@ The audience for this prototype will be researchers and students attempting to g
 As mentioned above the questions that this work addresses involve the intersection between time period, attendee types, location, and play. Specifically, what types of plays appealed to specific demographics? Did these relations shift over time? Is there a relation between viewing population and location? This prototype would allow researchers to examine the connections between these factors.
 
 ## Prototype Design
-![prototype.png](/assets/prototype.png)
+![prototype.png]({{ site.github.url }}/assets/prototype.png)
 

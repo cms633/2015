@@ -15,5 +15,5 @@ Our visualization shows the strong effects of day of the week, month, year, and 
 Design changes:
 We used some simple CSS to edit the input and submit fields. However, the meat of our visual design is provided by the library Chart.js, so the more meaningful design changes would be creating meaningful x and y axis labels as well as point labels. We would also abstract away the way we search the API for information and provide more intuitive verbs. In addition, we would seek to compare to data sets as visualized below.
 
-![Two Data Sets Example](/assets/comparing_two_datasets.png)
+![Two Data Sets Example]({{ site.github.url }}/assets/comparing_two_datasets.png)
 

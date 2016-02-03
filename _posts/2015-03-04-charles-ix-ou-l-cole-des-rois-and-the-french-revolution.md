@@ -22,7 +22,7 @@ This tool would be interesting for those studying the history of the French Revo
 
 We built the [website](https://rawgit.com/Benolds/CMS633-Comedie-Francaise-Visualization/master/index.html) using d3.js to power the visualization. First, we send an HTTP GET request to the CFRP API to retrieve data about the number of tickets sold for this play. We do so for the lodge tickets and the parterre tickets, and we visualize each in a simple bar chart powered by d3.js. The charts are side-by-side so you can easily compare the types of tickets sold on a given night. Below is a screen shot of our website, showing the bar graphs that compare theater attendance, according to ticket sales, of wealthier and poorer classes to this controversial play. 
 
-![screencap_graphs.png](/assets/screencap_graphs.png)
+![screencap_graphs.png]({{ site.github.url }}/assets/screencap_graphs.png)
 
 
 
@@ -30,17 +30,17 @@ We built the [website](https://rawgit.com/Benolds/CMS633-Comedie-Francaise-Visua
 
 For a future version of the project, we want to go for an even larger-scale design idea/question for our imagined website/tool: A tool for quantifying the effects of CF on the french revolution via the study of specific cases ( certain plays, performances by actors etc.) Basically we catch and present attendance/section ticket sale trends that we believe would be interesting within the context of the revolution. There is a summary of this idea under the “About" page shown below.
 
-![2_About_Page.png](/assets/2_About_Page.png)
+![2_About_Page.png]({{ site.github.url }}/assets/2_About_Page.png)
 
 Here is an idea of what our home page would look like.
 
-![1_Home_Page.png](/assets/1_Home_Page.png)
+![1_Home_Page.png]({{ site.github.url }}/assets/1_Home_Page.png)
 
 Also to add flexibility, we figured the data visualization graph could have options like looking at total sale numbers vs (tickets sold/tickets available). We tried to show this with selection buttons next to the graph. 
 
-![4_Example_Data_Zoom.png](/assets/4_Example_Data_Zoom.png)
+![4_Example_Data_Zoom.png]({{ site.github.url }}/assets/4_Example_Data_Zoom.png)
 
 
 Also, notice that the text above the graph is full of hyperlinks! These are mostly to wikipedia pages of whatever is highlighted. Except for the play name itself: that one is a scanned copy of the script ([can be found here](https://archive.org/details/charlesixoulco00ch)). This could be a useful feature for those who want to know more about specific parameters and things mentioned on the site. 
 
-![3_Example_Chenier_Charles_IX.png](/assets/3_Example_Chenier_Charles_IX.png)
+![3_Example_Chenier_Charles_IX.png]({{ site.github.url }}/assets/3_Example_Chenier_Charles_IX.png)

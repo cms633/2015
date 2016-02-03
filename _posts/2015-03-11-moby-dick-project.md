@@ -20,6 +20,6 @@ I think that this tool has amazing potential when used within the right context.
 
 As I lacked the time and expertise to complete any of these, I present to you what I accomplished within the 1 week time frame: a slider bar that adjusts the opacity of the overlaying map.
 
-![Screen Shot 2015-03-11 at 6.41.17 PM.png](/assets/Screen Shot 2015-03-11 at 6.41.17 PM.png)
+![Screen Shot 2015-03-11 at 6.41.17 PM.png]({{ site.github.url }}/assets/Screen Shot 2015-03-11 at 6.41.17 PM.png)
 
 

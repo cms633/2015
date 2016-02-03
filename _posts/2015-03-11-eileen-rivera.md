@@ -7,7 +7,7 @@ author: Eileen Rivera
 ---
 
 <style> img{width:200px; float:left; margin-right:10px;}</style>
-![Photo of Eileen ](/assets/IMG_0886.jpg)
+![Photo of Eileen ]({{ site.github.url }}/assets/IMG_0886.jpg)
 
 
 

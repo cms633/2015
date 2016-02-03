@@ -7,13 +7,13 @@ author: Zach Sherin
 ---
 
 For my update, I found a map of sperm whale populations and tried to overlay it onto the map. I ran into a few problems with this. First, the map had the pacific ocean in the center, which meant that overlaying it with the Google Maps API was surprisingly difficult, and I had to fix it in GIMP.
-![map.jpg](/assets/map.jpg)
-![spermwhalefixed.jpg](/assets/spermwhalefixed.jpg)
+![map.jpg]({{ site.github.url }}/assets/map.jpg)
+![spermwhalefixed.jpg]({{ site.github.url }}/assets/spermwhalefixed.jpg)
 This was not that big a deal to fix, however, and was quickly (and mildly unprofessionally, sure) taken care of. The real problem was when I overlayed it on the actual map. At first look, it seems like there's no problem except for a slight mismatch in my latitude and longitude coordinates:
-![updated map.png](/assets/updated map.png)
+![updated map.png]({{ site.github.url }}/assets/updated map.png)
 
 But then, if you look at other areas of the map, the problem becomes clear:
-![mapproblems.png](/assets/mapproblems.png)
+![mapproblems.png]({{ site.github.url }}/assets/mapproblems.png)
 
 The map projections are different! This is something I would consider a major problem in any sort of geotagging experiment that involves the use of maps. The projection of the map matters enormously when trying to combine different maps, and mine was an incompatible projection.
 

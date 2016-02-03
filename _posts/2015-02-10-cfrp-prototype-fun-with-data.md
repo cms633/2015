@@ -46,4 +46,4 @@ Our system allows for a large range of questions to be answered, limited primari
 3. How world events impacted theater attendance
 
 ## Designs
-![IMG_2254.JPG](/assets/IMG_2254.JPG)
+![IMG_2254.JPG]({{ site.github.url }}/assets/IMG_2254.JPG)

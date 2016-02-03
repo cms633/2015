@@ -10,7 +10,7 @@ tags:
 
 As someone interested in experimental music, especially examples exploring the nature and limits of sound, I find sonification to be an amazing tool for new forms of artistic expression. My first exposure to sonification was in a piece by the contemporary electronic music genius Aphex Twin. In his song officially titled: 
 
-![equation.png](/assets/equation.png)
+![equation.png]({{ site.github.url }}/assets/equation.png)
 
 , but is often referred to as “[Equation](https://www.youtube.com/watch?v=M9xMuPWAZW8)”, Aphex Twin carries the mathematical as well as the visual to the sonic realm. Similarly Lucier’s _I am sitting in a room_, which is mentioned in the text, is a really original and mesmerizing conversion of physical space into audio. Both of these examples take things that seemingly don’t belong in the sonic realm, and express them in new ways. But does Aphex Twin’s sonic expression of an equation aim to convey a mathematics message to the listener? Would such an aim even be meaningful?
 

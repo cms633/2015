@@ -12,13 +12,13 @@ For my visualization, I decided to explore one of the lesser-used visualization 
 
 I started with the large dataset, which produced this:
 
-![voronoi_big.png](/assets/voronoi_big.png)
+![voronoi_big.png]({{ site.github.url }}/assets/voronoi_big.png)
 
 The X axis represents the date, the y axis represents the total tickets sold, and the color represents the genre. 
 
 As you can see, the image is a bit difficult to parse. I decided to try it again with the smaller dataset, using the same dimensions for the axes and color:
 
-![voronoi_small.png](/assets/voronoi_small.png)
+![voronoi_small.png]({{ site.github.url }}/assets/voronoi_small.png)
 
 This one is much more readable, though it also has no labels.
 

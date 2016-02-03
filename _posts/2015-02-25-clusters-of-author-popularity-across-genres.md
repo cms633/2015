@@ -6,7 +6,7 @@ category: updates
 author: Deniz Aksel
 ---
 
-![Screen Shot 2015-02-25 at 5.34.11 PM.png](/assets/Screen Shot 2015-02-25 at 5.34.11 PM.png)
+![Screen Shot 2015-02-25 at 5.34.11 PM.png]({{ site.github.url }}/assets/Screen Shot 2015-02-25 at 5.34.11 PM.png)
 
 
 

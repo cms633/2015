@@ -20,4 +20,4 @@ Cleaning the data took some time, as did getting familiar with the Google Maps A
 
 See the website [here](https://mobydick.firebaseapp.com/ "moby dick")
 
-![moby dick map](/assets/moby_dick_map.png)
+![moby dick map]({{ site.github.url }}/assets/moby_dick_map.png)

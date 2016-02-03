@@ -11,5 +11,5 @@ This is more of a concept than an implementation since I'm not sure how to actua
 
 The outcome of this will allow people to get a feel of the important events of each time period as well as how it could affect the same kind of activities. This can be extrapolated to other activities and see how the change of the society can affect human interaction and experience. Below is a rough similated image of how I envision it to look
 
-![maps.jpg](/assets/maps.jpg)
+![maps.jpg]({{ site.github.url }}/assets/maps.jpg)
 
